@@ -1,0 +1,9 @@
+ span {
+ color: grey;
+}
+
+ .right-border {
+
+border-right: 2px dotted grey;
+padding: 2px;
+}
