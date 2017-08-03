@@ -1,0 +1,20 @@
+h2{
+  font-family: font-family: 'Source Sans Pro', sans-serif;
+  font-size: 35px;
+}
+.container {
+  width: 80%;
+  border: 20px solid #bdc3c7;
+  margin: 0 10%;
+  padding-left:2%;
+  padding-right:2%;
+}
+.lorem{
+  border-left:10px solid grey;
+  padding-left:1%;
+}
+.date {
+  color: #3498db;
+  font-size:25px;
+  letter-spacing:1px;
+}
